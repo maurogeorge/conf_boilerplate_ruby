@@ -1,12 +1,12 @@
 # Conference info
 conf:
-  name: Conference name
-  description: Conference description
-  date: November 15
-  price: $100
-  address: Boulevard Kukulcan, 30, México
-  venue: Coco Bongo
-  city: Cancún
+  name: Seacomp
+  description: Semana Acadêmica da Computação
+  date: 15 a 19 de Junho
+  price: --
+  address: Unemat Barra do Bugres - MT
+  venue: Unemat
+  city: Barra do Bugres - MT
 
 # Site info
 url: http://confboilerplate.com
